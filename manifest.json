@@ -1,0 +1,21 @@
+{
+  "name": "VIDA – Etapa de Equipo",
+  "short_name": "VIDA Equipo",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e9f2f2",
+  "theme_color": "#0f4c5c",
+  "icons": [
+    {
+      "src": "./assets/iglesia-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/tinta-verde.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
